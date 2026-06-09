@@ -1,0 +1,6 @@
+{
+  "name": "Face Detection and Recognition Panel",
+  "description": "Real-time face detection, landmarks, expressions, age, and gender estimation using face-api.js and webcam stream",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
